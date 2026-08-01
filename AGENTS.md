@@ -19,6 +19,12 @@ This repository owns the `coilyco-gaming` organization profile.
   final percentile cut is organization-wide.
 * Keep executable work in the repository that owns the affected artifact.
   Labels, milestones, readiness, and dependency markers remain repo-local.
-* Use an issue in this organization-profile repository only when one portfolio
-  outcome needs synthesis, ordering, and final closure across several member
-  repositories. Link the repo-local issues instead of duplicating them.
+* Treat the organization-scoped P0-P4 and execution-mode labels as the live
+  source of truth. Every open issue has exactly one label from each axis.
+* Generate complete cross-repository views from Forgejo. Do not hand-maintain
+  issue counts, issue-number inventories, priority queues, or point-in-time
+  tracker snapshots in this repository.
+* Use an issue in this organization-profile repository only for a time-bounded
+  portfolio outcome that needs synthesis, ordering, and final closure across
+  several member repositories. Link the repo-local issues instead of
+  duplicating them. Do not use a standing issue as a portfolio index.
