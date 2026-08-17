@@ -4,10 +4,9 @@ The banner for the Sirens Discord server, as opposed to the two bot deployments
 that live in it. `assets/sirens-discord-banner.jpg` is 1280 by 640 and
 `assets/sirens-discord-banner-2x.jpg` is 2560 by 1280.
 
-It lives here because the server is a community this organization owns, and the
-banner outlives whichever game or harness is currently active. `sirens-echo`
-owns its own repository banner and marks, and its `assets.md` scopes that
-directory to exactly that.
+It lives here because the server is a community this organization owns and the
+banner outlives whichever game or harness is active. `sirens-echo` owns its own
+repository banner and marks, scoped by its `assets.md`.
 
 ## Provenance
 
@@ -31,11 +30,11 @@ Discord` is far shorter, so at the same sizes the description runs to 1.46 and
 becomes the widest thing in the frame, which puts the subordinate line first.
 
 Raising the heading alone is the only correction that leaves the typeface,
-weight, colour, separator, and halo untouched. Scaling the lockup as a whole
-preserves the ratio and fixes nothing.
+weight, colour, separator, and halo untouched, and scaling the whole lockup
+preserves the ratio rather than fixing it.
 
 ## Fitted forms
 
-Neither file is cut to a Discord slot. Both are the 2:1 wide lockup, which suits
-a link preview, a pinned image, or a README. Draw a fitted form when a specific
-surface asks for one, which is the rule the banner system already states.
+Neither file is cut to a Discord slot. Both are the 2:1 wide lockup, suiting a
+link preview, a pinned image, or a README. Draw a fitted form when a surface
+asks for one, which is the rule the banner system already states.
